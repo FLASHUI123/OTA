@@ -1,14 +1,14 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.2_raphael-13.0-20221204-1034-OFFICIAL.zip",
-	"datetime":1670150040,
-	"size":2085675212,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/raphael\/PixelExtended-5.2_raphael-13.0-20221204-1034-OFFICIAL.zip\/download",
-	"filehash":"5d6e790d9fa31c8437154fe730e032b6",
+	"filename":"PixelExtended-5.2_raphael-13.0-20221204-2308-OFFICIAL.zip",
+	"datetime":1670195280,
+	"size":2086212625,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/raphael\/PixelExtended-5.2_raphael-13.0-20221204-2308-OFFICIAL.zip\/download",
+	"filehash":"f46b638612fc29e6862964f01d500f36",
 	"version":"trece",
 	"status":"Active",
 	"pexv":"5.2",
-	"id":"d0b0c980d4de1a9a0fbe79d047b797faab7adfc34c9acc938c24ef2c1c5e18fc",
+	"id":"393088e24a37da58acdc905d0ad85d1f68716e0284824d7b16456249cca3ca9b",
 	"tg_username":"ralf979",
 	"device_name":"xiaomi mi 9t pro",
 	"device":"raphael",
@@ -19,7 +19,7 @@
 		"name":"ralf979"
 	}],
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
-	"website_url":"PixelExtended.github.io",
+	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
 	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-26-11-2022.4146471\/"
 }
